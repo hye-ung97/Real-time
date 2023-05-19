@@ -31,5 +31,6 @@
    - 키워드 알림 서비스 : 개인 사용자별 관심 키워드를 입력받아 실시간 검색어에 해당 키워드가 오를 시 알림 서비스 제공
 
 ## 5️⃣ 시연영상
+![SOOB](https://github.com/hye-ung97/Real-time-page-soob/blob/11d57c271f438b4f9f8ebfdf6c89c77f09636d7a/img/%EB%A3%A8%EB%B9%84%EC%8A%A4%20%EC%8B%9C%EC%97%B0%20%EC%98%81%EC%83%81.gif)
 
 
