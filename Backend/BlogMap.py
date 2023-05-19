@@ -10,7 +10,7 @@ file_data = OrderedDict()
 client_id = "TINu97pfUX4zAy7KrVYV"
 client_secret = "sGqcrnOB2h"
 
-conn = pymysql.connect(host="capruby07.cafe24.com", port=3306, user="capruby07", passwd="fnql0707!", db="capruby07",  charset='utf8')
+conn = pymysql.connect(host="host.com", port=3306, user="user", passwd="password!", db="db",  charset='utf8')
 cur = conn.cursor()
 
 sql = 'select distinct contents, name,address from map where contents="명란 바게트" or contents="시금치 피타" or contents="마라탕"'
