@@ -21,3 +21,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 4️⃣ 주요기능
+1. Crawling(크롤링) : python의 BeautifulSoup 라이브러리와 naver api를 활용
+2. 데이터 분석 (자연어 처리 및 감정 분석) : 한글 텍스트(blog 내용)의 형태소를 분석하여 명사, 형 용사, 동사 추출 및 형태소의 긍부정 분석
+3. 웹페이지 제작
+   - 실시간 검색어 : 3대 포탈사이트의 실시간 검색어와 연관검색어를 모아 실시간으로 보여주고 카 테고리 분류하여 시각화
+   - 음식 카테고리 : 실시간 검색어에 대한 sns의 기간별 변화 추이, 관련 상위 해쉬태그와 긍부정 반응을 보여주고 진정한 맛집 정보 제공
+   - 키워드 알림 서비스 : 개인 사용자별 관심 키워드를 입력받아 실시간 검색어에 해당 키워드가 오를 시 알림 서비스 제공
+
+## 5️⃣ 시연영상
+
+
