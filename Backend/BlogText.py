@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import urllib.request as req
 import pymysql
 
-conn = pymysql.connect(host="capruby07.cafe24.com", port=3306, user="capruby07", passwd="fnql0707!", db="capruby07",  charset='utf8')
+conn = pymysql.connect(host="host.com", port=3306, user="user", passwd="password", db="database",  charset='utf8')
 cur = conn.cursor()
 
 sql = 'select link from blogstore where text is null and contents="초계국수"'
