@@ -2,7 +2,7 @@
 
     session_start();
         
-    $conn=mysqli_connect("localhost","capruby07","fnql0707!","capruby07");
+    $conn=mysqli_connect("host","user","password","database");
     mysqli_set_charset($conn,'utf8');
 
     $Id=$_SESSION['id'];

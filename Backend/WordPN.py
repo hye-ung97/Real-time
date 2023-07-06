@@ -3,7 +3,7 @@ from collections import Counter
 import pymysql
 from konlpy.tag import Twitter
 
-conn = pymysql.connect(host="capruby07.cafe24.com", port=3306, user="capruby07", passwd="fnql0707!", db="capruby07",  charset='utf8')
+conn = pymysql.connect(host="host.com", port=3306, user="user", passwd="password", db="db",  charset='utf8')
 cur = conn.cursor()
 sql2 = 'select name from map where contents="낙지 볶음"'
 cur.execute("set charset utf8")

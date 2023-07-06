@@ -2,7 +2,7 @@
 <?php
     session_start();
     
-    $conn=mysqli_connect("localhost","capruby07","fnql0707!","capruby07");
+    $conn=mysqli_connect("host","user","password","database");
     mysqli_set_charset($conn,'utf8');
 
     // 2. 로그인 안한 회원은 로그인 페이지로 보내기
